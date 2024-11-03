@@ -2,6 +2,10 @@
 
 An intelligent candidate screening solution powered by GPT-3.5, Langchain, and Streamlit. This system automates the initial interview process by evaluating candidate responses based on technical knowledge, problem-solving skills, and communication ability.
 
+![download (1)](https://github.com/user-attachments/assets/10ac7391-a63a-4729-9ef3-0ffce38894ae)
+
+
+
 ## 🚀 Features
 
 - **Interactive Interview Interface**: Streamlit-based UI for seamless candidate response collection
